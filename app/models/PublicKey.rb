@@ -1,0 +1,3 @@
+class PublicKey < ActiveModel
+
+end
